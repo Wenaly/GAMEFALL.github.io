@@ -1,7 +1,6 @@
 # obnoxious.club
 🌹Website for my team's portfolio
 
-Preview - https://obnoxious.club/
 
 ![Made with love in Poland](https://madewithlove.now.sh/pl?heart=true)
 
