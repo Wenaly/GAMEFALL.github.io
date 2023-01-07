@@ -1,7 +1,7 @@
 /*
 
 Credits:
-    - Lummit - https://obnoxious.club/ | https://github.com/Lumm1t/ | Discord: Lummit#0201
+    - Lummit - https://github.com/uhpep/GAMEFALL.github.io | https://github.com/uhpep | Discord: uhpep#0041
     - expl0it, shellcode.team
     - Steam (emoticon: https://steamcommunity-a.akamaihd.net/economy/emoticon/mgh_17)
     - Trollface image (http://www.rw-designer.com/icon-image/7835-256x256x32.png)
@@ -23,7 +23,7 @@ Thanks for:
     - animate.css
     - typed.js
 
-GitHub: https://github.com/Lumm1t/obnoxious.club
+GitHub: https://github.com/uhpep/GAMEFALL.github.io
 
 */
 
@@ -38,24 +38,24 @@ const mobileAndTabletCheck = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IE
 $(document).ready(() => {
   const links = [
     {
-      name: 'Lummit',
-      link: '76561197960276740',
+      name: 'uhpep',
+      link: '870742569787748363',
     },
     {
-      name: 'Neso',
-      link: '76561198193201687',
+      name: 'Nørâ',
+      link: '774207980589154324',
     },
     {
       name: 'loljuxd',
       link: '76561198016198032',
     },
     {
-      name: 'Lost',
-      link: '76561199079530557',
+      name: 'no one',
+      link: '',
     },
     {
-      name: 'mannin',
-      link: '76561197975672336',
+      name: 'no one',
+      link: '',
     },
   ];
 
@@ -75,7 +75,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['Lummit', 'Neso', 'loljuxd', 'Vez', 'mannin', '=', 'obnoxious.club', 'Song name: KUSO GVKI - Cinnamon (feat. Apfel) (splash! Mag Premiere)']);
+  app.titleChanger(['uhpep', 'Nørâ', 'loljuxd', 'no one', 'mannin', '=', 'obnoxious.club', 'Song name: KUSO GVKI - Cinnamon (feat. Apfel) (splash! Mag Premiere)']);
   app.iconChanger(['assets/icons/roses/rose1.jpg', 'assets/icons/roses/rose2.jpg', 'assets/icons/roses/rose3.jpg', 'assets/icons/roses/rose4.jpg', 'assets/icons/roses/rose5.jpg', 'assets/icons/roses/rose6.jpg', 'assets/icons/roses/rose7.jpg', 'assets/icons/roses/rose8.jpg', 'assets/icons/roses/rose1.jpg']);
 });
 

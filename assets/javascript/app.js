@@ -1,6 +1,6 @@
-// Made by Lummit - https://obnoxious.club/ | https://github.com/Lumm1t/ | Discord: Lummit#0201
+// Made by uhpep - https://uhpep.github.io/GAMEFALL.github.io/ | https://github.com/uhpep | Discord: uhpep#0041
 // Credits to expl0it, shellcode.team
-// GitHub: https://github.com/Lumm1t/obnoxious.club
+// GitHub: https://github.com/uhpep/GAMEFALL.github.io
 
 class _app {
   id = 0;
@@ -12,7 +12,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['11 years old kids team', 'pro roblox players', 'xane ddosers', 'trashtalkers', 'esoterik fanboys', 'hack vs hack team'];
+  brandDescription = ['11 years old kids team', 'pro roblox players', 'xane ddosers', 'trashtalkers', 'esoterik fanboys', 'Do you think you can stop us?'];
 
   titleChanger = (text, delay) => {
     if (!text) return;
